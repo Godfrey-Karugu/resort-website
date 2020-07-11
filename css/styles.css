@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+}
+h2 {
+  text-align: left;
+  color: darkblue;
+}
+
+ol {
+  list-style-type: armenian;
+}
